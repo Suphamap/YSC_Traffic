@@ -1,2 +1,4 @@
 # YSC_Traffic
-Integrating Radar-Based Rainfall Nowcasting with Traffic Condition Data for Predictive Traffic Modeling in Urban Areas
+## Integrating Radar-Based Rainfall Nowcasting with Traffic Condition Data for Predictive Traffic Modeling in Urban Areas
+
+This project investigates the impact of heavy rainfall on urban traffic flow by combining real-time radar-based rainfall nowcasting with traffic condition information. Focusing on densely populated urban environments, the goal is to improve the prediction of traffic congestion during severe weather events. By analyzing how rainfall intensity and duration influence traffic patterns, the project seeks to develop a model that can forecast traffic conditions with greater accuracy under varying weather scenarios. This model could be used by city planners and traffic management systems to minimize delays, enhance safety, and improve urban mobility during heavy rain.
